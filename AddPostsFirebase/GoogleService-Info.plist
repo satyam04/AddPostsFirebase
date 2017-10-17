@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>922516487762-36vni09946hrhv88u8ki5h090fbhji6c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922516487762-36vni09946hrhv88u8ki5h090fbhji6c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASIX0Irog_NlFp_y8e7dPxeVtKE9Z8D5A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922516487762</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>satyamMac.AddPostsFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>addpostsfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>addpostsfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922516487762:ios:c1612253801aae85</string>
+	<key>DATABASE_URL</key>
+	<string>https://addpostsfirebase.firebaseio.com</string>
+</dict>
+</plist>
